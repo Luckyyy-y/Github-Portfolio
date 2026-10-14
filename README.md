@@ -16,7 +16,7 @@
 
 - 🎓 Computer Information Systems student at the University of Houston
 - 📅 Graduating in December 2027
-- 🛡️ CompTIA Security+ certified (September 2026)
+- 🛡️ CompTIA Security+ certified
 - ☁️ Interested in cloud infrastructure, cybersecurity, networking, and secure cloud operations
 - 🔐 Studying secure application design and how security is incorporated into applications and systems
 - 🤝 President of the Houston Buddha's Light International Association Young Adult Division
